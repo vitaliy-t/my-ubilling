@@ -80,7 +80,7 @@ For now, there is only **Android** demo available. You can download it [here](/m
 ## I want to buy
 Contact me in [Telegram](https://t.me/vitaliy_t0)
 
-**$50** - is the price of this whole package. (Android/iOS + Push-notification website)
+**$75** - is the price of this whole package. (Android/iOS + Push-notification website)
 This, of course, does not include the pricing of any of the developer accounts that you will need in order to publish the apps.
 
 For now, the plan is for apps to have full [XML-Agent](http://wiki.ubilling.net.ua/doku.php?id=xmlagent) support.
